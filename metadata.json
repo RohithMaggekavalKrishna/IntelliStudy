@@ -1,0 +1,7 @@
+{
+  "name": "FocusFlow",
+  "description": "A privacy-first study habit tracker that uses local computer vision to help students understand where their time goes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
